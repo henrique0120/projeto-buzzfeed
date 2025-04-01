@@ -1,0 +1,48 @@
+.home__logo{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+
+.home__logo > h1{
+  margin-top: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 25px;
+}
+
+.home__options{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: auto;
+  margin-bottom: 20px;
+}
+
+.home__options > button{
+  background-color: transparent;
+  border-radius: 8px;
+  border: 1px solid #A8D6E5;
+  width: 50%;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: Arial;
+  font-size: 17px;
+  padding: 16px 31px;
+  text-decoration: none;
+  text-shadow: 0px 1px 0px #09393d;
+}
+
+.home__options > button:hover{
+  background-color: #1fb6c4;
+}
+
+.home__options > button:active{
+  position: relative;
+  top:1px;
+}
+
+

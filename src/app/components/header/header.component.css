@@ -1,0 +1,14 @@
+.header__logo{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+  margin-top: 20px;
+}
+
+.header__logo > h1{
+  margin-top: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 25px;
+}

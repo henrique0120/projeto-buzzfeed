@@ -1,0 +1,67 @@
+{
+  "title": "Que tipo de filme/série combina com sua personalidade?",
+  "questions": [
+    {
+      "id": 1,
+      "question": "O que você mais valoriza em um filme ou série?",
+      "options": [
+        { "id": 1, "name": "Emoção e grandes reviravoltas", "alias": "A" },
+        { "id": 2, "name": "Risadas e diversão garantida", "alias": "B" },
+        { "id": 3, "name": "Ação frenética e adrenalina", "alias": "C" },
+        { "id": 4, "name": "Enigmas e mistérios intrigantes", "alias": "D" },
+        { "id": 5, "name": "Mundos incríveis e personagens épicos", "alias": "E" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Como você lida com problemas?",
+      "options": [
+        { "id": 1, "name": "Com intensidade e reflexões profundas", "alias": "A" },
+        { "id": 2, "name": "Tentando ver o lado engraçado da situação", "alias": "B" },
+        { "id": 3, "name": "Partindo para a ação sem pensar duas vezes", "alias": "C" },
+        { "id": 4, "name": "Analisando tudo antes de tomar uma decisão", "alias": "D" },
+        { "id": 5, "name": "Imaginando soluções criativas e fora da caixa", "alias": "E" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "O que te deixa mais animado em uma história?",
+      "options": [
+        { "id": 1, "name": "Personagens bem desenvolvidos e histórias emocionantes", "alias": "A" },
+        { "id": 2, "name": "Situações engraçadas e momentos de leveza", "alias": "B" },
+        { "id": 3, "name": "Cenas épicas e cheias de adrenalina", "alias": "C" },
+        { "id": 4, "name": "Enigmas a serem resolvidos", "alias": "D" },
+        { "id": 5, "name": "Universos fantásticos e realidades alternativas", "alias": "E" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Qual dessas frases mais combina com você?",
+      "options": [
+        { "id": 1, "name": "A vida é um grande roteiro de emoções", "alias": "A" },
+        { "id": 2, "name": "Rir é sempre o melhor remédio", "alias": "B" },
+        { "id": 3, "name": "Sem desafios, a vida seria chata", "alias": "C" },
+        { "id": 4, "name": "Nada é o que parece ser", "alias": "D" },
+        { "id": 5, "name": "O impossível só existe até alguém provar o contrário", "alias": "E" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Se você pudesse viver dentro de um filme/série, qual escolheria?",
+      "options": [
+        { "id": 1, "name": "Uma história intensa como 'This Is Us' ou 'O Curioso Caso de Benjamin Button'", "alias": "A" },
+        { "id": 2, "name": "Uma sitcom como 'Friends' ou 'Brooklyn Nine-Nine'", "alias": "B" },
+        { "id": 3, "name": "Um filme cheio de ação como 'Mad Max' ou 'John Wick'", "alias": "C" },
+        { "id": 4, "name": "Um suspense como 'Sherlock' ou 'A Origem'", "alias": "D" },
+        { "id": 5, "name": "Um universo fantástico como 'Harry Potter' ou 'Game of Thrones'", "alias": "E" }
+      ]
+    }
+  ],
+  "results": {
+    "A": "🎭 Drama – Você gosta de histórias intensas, cheias de emoção e desenvolvimento de personagens. Filmes e séries que exploram a complexidade da vida são sua praia!",
+    "B": "😂 Comédia – Seu estilo é leve e divertido! Você adora boas risadas e prefere histórias que tragam alegria ao seu dia a dia.",
+    "C": "💥 Ação – Adrenalina e emoção são essenciais para você! Filmes e séries com explosões, perseguições e cenas eletrizantes combinam com seu espírito aventureiro.",
+    "D": "🔍 Suspense/Thriller – Você adora um bom mistério e gosta de histórias que te fazem pensar. Tramas com reviravoltas e segredos escondidos são o seu forte.",
+    "E": "🚀 Fantasia/Ficção Científica – Você ama imaginar novos mundos e possibilidades! Histórias com elementos mágicos, futuristas ou universos fantásticos te fascinam."
+  }
+}

@@ -1,0 +1,29 @@
+<div class="quizz-jogos__container">
+  <div *ngIf="!finished" class="quizz-jogos__questions">
+    <h3>{{ questionSelected.question }}</h3>
+  </div>
+
+  <div *ngIf="!finished" class="quizz-jogos__options">
+    <div *ngFor="let option of questionSelected.options; let i = index">
+      <input
+        type="checkbox"
+        id="option-{{ i }}"
+        (change)="playerChoose($event)"
+        class="btn-option"
+        value="{{ option.name }}"
+      />
+      <label for="option-{{ i }}" class="btn-option-label">
+        {{ option.name }}
+      </label>
+    </div>
+  </div>
+  
+  <button *ngIf="!finished" class="btn-next" (click)="nextStep()">
+    Next
+  </button>
+
+  <div *ngIf="finished" class="quizz-jogos__results">
+    <h1>O Seu resultado é:</h1>
+    <p>{{ answerSelected }}</p>
+  </div>
+</div>

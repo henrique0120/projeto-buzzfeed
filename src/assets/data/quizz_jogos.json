@@ -1,0 +1,63 @@
+{
+  "title": "Quais jogos você já jogou? (Apenas os verdadeiros gamers marcarão todos!)",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Marque os jogos clássicos dos anos 90 e 2000 que você já jogou:",
+      "options": [
+        { "id": 1, "name": "Super Mario 64" },
+        { "id": 2, "name": "The Legend of Zelda: Ocarina of Time" },
+        { "id": 3, "name": "Metal Gear Solid" },
+        { "id": 4, "name": "Final Fantasy VII" },
+        { "id": 5, "name": "Resident Evil 2" },
+        { "id": 6, "name": "Half-Life" },
+        { "id": 7, "name": "The Sims" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Marque os títulos icônicos dos anos 2000 que você já jogou:",
+      "options": [
+        { "id": 1, "name": "GTA: San Andreas" },
+        { "id": 2, "name": "Halo 3" },
+        { "id": 3, "name": "Call of Duty: Modern Warfare" },
+        { "id": 4, "name": "God of War (PS2)" },
+        { "id": 5, "name": "World of Warcraft" },
+        { "id": 6, "name": "Shadow of the Colossus" },
+        { "id": 7, "name": "Pokémon FireRed/LeafGreen" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Marque os games da geração PS3/Xbox 360/Wii que você já jogou:",
+      "options": [
+        { "id": 1, "name": "The Elder Scrolls V: Skyrim" },
+        { "id": 2, "name": "Red Dead Redemption" },
+        { "id": 3, "name": "Dark Souls" },
+        { "id": 4, "name": "Minecraft" },
+        { "id": 5, "name": "Portal 2" },
+        { "id": 6, "name": "Super Smash Bros. Brawl" },
+        { "id": 7, "name": "Assassin’s Creed II" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Marque os jogos modernos e atuais que você já jogou:",
+      "options": [
+        { "id": 1, "name": "The Last of Us Part II" },
+        { "id": 2, "name": "Elden Ring" },
+        { "id": 3, "name": "Cyberpunk 2077" },
+        { "id": 4, "name": "Baldur’s Gate 3" },
+        { "id": 5, "name": "God of War Ragnarok" },
+        { "id": 6, "name": "Zelda: Breath of the Wild" },
+        { "id": 7, "name": "Fortnite" }
+      ]
+    }
+  ],
+  "results": {
+    "range_0_9": "🎮 Casual Gamer - Você joga de vez em quando, mas ainda tem muitos clássicos para conhecer!",
+    "range_10_19": "🔥 Gamer Entusiasta - Você já explorou bastante o mundo dos games e conhece títulos incríveis.",
+    "range_20_29": "🏆 Gamer Hardcore - Você é um verdadeiro gamer! Seu repertório de jogos é digno de respeito.",
+    "range_30_more": "👑 Lenda dos Games - Você jogou praticamente tudo! Seu conhecimento gamer é inigualável."
+  }
+}
