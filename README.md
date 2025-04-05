@@ -11,10 +11,6 @@
     <b>Projeto com quizzes inspirado no BuzzFeed.</b>
 </p>
 
-<p align="center">
-     <a href="PROJECT__URL">📱 Visit this Project</a>
-</p>
-
 <h2 id="technologies">💻 Technologies</h2>
 
 - Angular
