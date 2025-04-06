@@ -3,12 +3,17 @@
 <p align="center">
  <a href="#technologies">Technologies</a> • 
  <a href="#started">Getting Started</a> • 
-  <a href="#colab">Collaborators</a> •
- <a href="#contribute">Contribute</a>
 </p>
 
 <p align="center">
     <b>Projeto com quizzes inspirado no BuzzFeed.</b>
+</p>
+
+<h2 id="layout">🎨 Layout</h2>
+
+<p align="center">
+    <img src="assets/screenshot1.png" alt="Image 1" width="400px">
+    <img src="assets/screenshot2.png" alt="Image 2" width="400px">
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
