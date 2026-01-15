@@ -1,0 +1,72 @@
+{
+  "title": "Escolha um artista de cada década e revelaremos seu estilo musical",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Escolha um artista dos anos 70:",
+      "options": [
+        { "id": 1, "name": "Led Zeppelin", "alias": "A" },
+        { "id": 2, "name": "Queen", "alias": "A" },
+        { "id": 3, "name": "Elton John", "alias": "B" },
+        { "id": 4, "name": "ABBA", "alias": "B" },
+        { "id": 5, "name": "David Bowie", "alias": "C" },
+        { "id": 6, "name": "The Ramones", "alias": "D" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Escolha um artista dos anos 80:",
+      "options": [
+        { "id": 1, "name": "Michael Jackson", "alias": "B" },
+        { "id": 2, "name": "Madonna", "alias": "B" },
+        { "id": 3, "name": "Guns N’ Roses", "alias": "A" },
+        { "id": 4, "name": "Metallica", "alias": "A" },
+        { "id": 5, "name": "Prince", "alias": "C" },
+        { "id": 6, "name": "The Cure", "alias": "C" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Escolha um artista dos anos 90:",
+      "options": [
+        { "id": 1, "name": "Nirvana", "alias": "A" },
+        { "id": 2, "name": "Backstreet Boys", "alias": "B" },
+        { "id": 3, "name": "Britney Spears", "alias": "B" },
+        { "id": 4, "name": "Radiohead", "alias": "C" },
+        { "id": 5, "name": "Tupac Shakur", "alias": "E" },
+        { "id": 6, "name": "Oasis", "alias": "C" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "Escolha um artista dos anos 2000:",
+      "options": [
+        { "id": 1, "name": "Linkin Park", "alias": "A" },
+        { "id": 2, "name": "Beyoncé", "alias": "B" },
+        { "id": 3, "name": "Coldplay", "alias": "C" },
+        { "id": 4, "name": "Eminem", "alias": "E" },
+        { "id": 5, "name": "Green Day", "alias": "D" },
+        { "id": 6, "name": "Amy Winehouse", "alias": "C" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Escolha um artista dos anos 2010:",
+      "options": [
+        { "id": 1, "name": "Taylor Swift", "alias": "B" },
+        { "id": 2, "name": "Kendrick Lamar", "alias": "E" },
+        { "id": 3, "name": "Billie Eilish", "alias": "C" },
+        { "id": 4, "name": "Arctic Monkeys", "alias": "C" },
+        { "id": 5, "name": "The Weeknd", "alias": "B" },
+        { "id": 6, "name": "Imagine Dragons", "alias": "A" }
+      ]
+    }
+  ],
+  "results": {
+    "A": "🎸 Seu estilo é Rock! Você curte guitarras distorcidas, baterias pesadas e aquele som clássico ou alternativo.",
+    "B": "🎤 Seu estilo é Pop! Você ama os hits chicletes, refrões viciantes e os maiores sucessos das rádios.",
+    "C": "🎵 Seu estilo é Indie! Você gosta de músicas experimentais, letras profundas e artistas fora do mainstream.",
+    "D": "🤘 Seu estilo é Punk! Você curte músicas rápidas, atitude rebelde e o espírito do 'faça você mesmo'.",
+    "E": "🎤 Seu estilo é Rap! Você valoriza letras inteligentes, rimas afiadas e batidas marcantes."
+  }
+}
